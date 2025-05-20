@@ -1,0 +1,50 @@
+2025-05-15 01:48:54,383 - modulo2 - ERROR - Error en análisis: Archivo no encontrado: resultados_uanl_20250515_013011.txt
+2025-05-15 01:56:54,707 - modulo2 - ERROR - Error en análisis: Archivo no encontrado: /salidas/resultados_uanl_20250515_013011.txt
+2025-05-15 01:59:42,375 - modulo2 - INFO - URL analizada: https://www.fime.uanl.mx/
+2025-05-15 01:59:43,308 - modulo2 - INFO - URL analizada: https://www.uadec.mx/fime-un/
+2025-05-15 01:59:44,128 - modulo2 - INFO - URL analizada: https://aidagonzalez274531020.wordpress.com/acerca-de/
+2025-05-15 01:59:44,842 - modulo2 - INFO - URL analizada: https://es.wikipedia.org/wiki/Facultad_de_Ingenier%C3%ADa_Mec%C3%A1nica_y_El%C3%A9ctrica_(Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n)
+2025-05-15 01:59:45,327 - modulo2 - INFO - URL analizada: https://www.uv.mx/fime/
+2025-05-15 01:59:45,342 - modulo2 - INFO - Resultados guardados en salidas_Virustotal/virustotal_20250515_015945.json
+2025-05-15 02:04:16,199 - modulo2 - INFO - URL analizada: https://www.fime.uanl.mx/
+2025-05-15 02:04:16,818 - modulo2 - INFO - URL analizada: https://www.uadec.mx/fime-un/
+2025-05-15 02:04:17,436 - modulo2 - INFO - URL analizada: https://aidagonzalez274531020.wordpress.com/acerca-de/
+2025-05-15 02:04:18,158 - modulo2 - INFO - URL analizada: https://es.wikipedia.org/wiki/Facultad_de_Ingenier%C3%ADa_Mec%C3%A1nica_y_El%C3%A9ctrica_(Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n)
+2025-05-15 02:04:18,844 - modulo2 - INFO - URL analizada: https://www.uv.mx/fime/
+2025-05-15 02:04:18,844 - modulo2 - INFO - Resultados guardados en salidas_Virustotal/virustotal_20250515_020418.json
+2025-05-15 02:04:35,855 - modulo2 - INFO - URL analizada: https://www.fime.uanl.mx/
+2025-05-15 02:04:36,487 - modulo2 - INFO - URL analizada: https://www.uadec.mx/fime-un/
+2025-05-15 02:04:36,988 - modulo2 - INFO - URL analizada: https://aidagonzalez274531020.wordpress.com/acerca-de/
+2025-05-15 02:04:37,505 - modulo2 - INFO - URL analizada: https://es.wikipedia.org/wiki/Facultad_de_Ingenier%C3%ADa_Mec%C3%A1nica_y_El%C3%A9ctrica_(Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n)
+2025-05-15 02:04:38,005 - modulo2 - INFO - URL analizada: https://www.uv.mx/fime/
+2025-05-15 02:04:38,005 - modulo2 - INFO - Resultados guardados en salidas_Virustotal/virustotal_20250515_020438.json
+2025-05-15 02:06:35,265 - modulo2 - INFO - URL analizada: https://www.fime.uanl.mx/
+2025-05-15 02:06:35,796 - modulo2 - INFO - URL analizada: https://www.uadec.mx/fime-un/
+2025-05-15 02:06:36,404 - modulo2 - INFO - URL analizada: https://aidagonzalez274531020.wordpress.com/acerca-de/
+2025-05-15 02:06:37,006 - modulo2 - INFO - URL analizada: https://es.wikipedia.org/wiki/Facultad_de_Ingenier%C3%ADa_Mec%C3%A1nica_y_El%C3%A9ctrica_(Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n)
+2025-05-15 02:06:37,522 - modulo2 - INFO - URL analizada: https://www.uv.mx/fime/
+2025-05-15 02:06:37,522 - modulo2 - INFO - Resultados guardados en salidas_Virustotal/virustotal_20250515_020637.json
+2025-05-15 02:09:42,861 - modulo2 - INFO - URL analizada: https://www.uanl.mx/
+2025-05-15 02:09:43,678 - modulo2 - INFO - URL analizada: https://www.google.com/search?num=12
+2025-05-15 02:09:44,410 - modulo2 - INFO - URL analizada: https://mvsnoticias.com/nuevo-leon/2025/5/14/uanl-reconoce-87-maestros-con-mas-de-40-anos-de-servicio-educativo-692356.html
+2025-05-15 02:09:45,212 - modulo2 - INFO - URL analizada: https://x.com/uanl?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+2025-05-15 02:09:45,933 - modulo2 - INFO - URL analizada: https://www.facebook.com/uanlred/?locale=es_LA
+2025-05-15 02:09:45,933 - modulo2 - INFO - Resultados guardados en salidas_Virustotal/virustotal_20250515_020945.json
+2025-05-15 02:31:58,214 - modulo2 - INFO - URL analizada: https://www.uanl.mx/
+2025-05-15 02:31:58,778 - modulo2 - INFO - URL analizada: https://www.google.com/search?num=12
+2025-05-15 02:31:59,483 - modulo2 - INFO - URL analizada: https://mvsnoticias.com/nuevo-leon/2025/5/14/uanl-reconoce-87-maestros-con-mas-de-40-anos-de-servicio-educativo-692356.html
+2025-05-15 02:32:00,300 - modulo2 - INFO - URL analizada: https://x.com/uanl?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+2025-05-15 02:32:00,817 - modulo2 - INFO - URL analizada: https://www.facebook.com/uanlred/?locale=es_LA
+2025-05-15 02:32:00,817 - modulo2 - INFO - Resultados guardados en salidas_Virustotal/virustotal_20250515_023200.json
+2025-05-15 02:36:24,806 - modulo2 - INFO - URL analizada: https://www.uanl.mx/
+2025-05-15 02:36:25,406 - modulo2 - INFO - URL analizada: https://www.google.com/search?num=12
+2025-05-15 02:36:25,807 - modulo2 - INFO - URL analizada: https://mvsnoticias.com/nuevo-leon/2025/5/14/uanl-reconoce-87-maestros-con-mas-de-40-anos-de-servicio-educativo-692356.html
+2025-05-15 02:36:26,292 - modulo2 - INFO - URL analizada: https://x.com/uanl?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+2025-05-15 02:36:26,841 - modulo2 - INFO - URL analizada: https://www.facebook.com/uanlred/?locale=es_LA
+2025-05-15 02:36:26,841 - modulo2 - INFO - Resultados guardados en salidas_Virustotal/virustotal_20250515_023626.json
+2025-05-15 19:45:42,727 - modulo2 - INFO - URL analizada: https://www.fcfm.uanl.mx/
+2025-05-15 19:45:43,259 - modulo2 - INFO - URL analizada: https://www.facebook.com/FCFM.UANL/?locale=es_LA
+2025-05-15 19:45:43,815 - modulo2 - INFO - URL analizada: https://www.fcfm.buap.mx/
+2025-05-15 19:45:44,266 - modulo2 - INFO - URL analizada: https://www.uanl.mx/centros_inv/unidad-de-desarrollo-de-instrumentos-cientificos-y-tecnologicos-fcfm/
+2025-05-15 19:45:44,763 - modulo2 - INFO - URL analizada: https://www.instagram.com/fcfm.uanl/?hl=es
+2025-05-15 19:45:44,763 - modulo2 - INFO - Resultados guardados en salidas_Virustotal/virustotal_20250515_194544.json
